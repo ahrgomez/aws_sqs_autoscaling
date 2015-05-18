@@ -1,0 +1,16 @@
+C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\epScheduledServices.Startup.exe.config
+C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\epScheduledServices.Startup.exe
+C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\epScheduledServices.Startup.pdb
+C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\AWSSDK.dll
+C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\AWSSDK.pdb
+C:\projects\epScheduledServices\epScheduledServices.Startup\obj\Debug\AWS_SQS_AutoScale.csprojResolveAssemblyReference.cache
+C:\projects\epScheduledServices\epScheduledServices.Startup\obj\Debug\epScheduledServices.Startup.exe
+C:\projects\epScheduledServices\epScheduledServices.Startup\obj\Debug\epScheduledServices.Startup.pdb
+C:\projects\epScheduledServices\AWS_SQS_AutoScale.Startup\bin\Debug\AWSSDK.dll
+C:\projects\epScheduledServices\AWS_SQS_AutoScale.Startup\bin\Debug\AWSSDK.pdb
+C:\projects\epScheduledServices\AWS_SQS_AutoScale.Startup\obj\Debug\AWS_SQS_AutoScale.csprojResolveAssemblyReference.cache
+C:\projects\epScheduledServices\AWS_SQS_AutoScale.Startup\bin\Debug\AWS_SQS_AutoScale.Startup.exe.config
+C:\projects\epScheduledServices\AWS_SQS_AutoScale.Startup\bin\Debug\AWS_SQS_AutoScale.Startup.exe
+C:\projects\epScheduledServices\AWS_SQS_AutoScale.Startup\bin\Debug\AWS_SQS_AutoScale.Startup.pdb
+C:\projects\epScheduledServices\AWS_SQS_AutoScale.Startup\obj\Debug\AWS_SQS_AutoScale.Startup.exe
+C:\projects\epScheduledServices\AWS_SQS_AutoScale.Startup\obj\Debug\AWS_SQS_AutoScale.Startup.pdb
