@@ -1,8 +1,0 @@
-C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\epScheduledServices.Startup.exe.config
-C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\epScheduledServices.Startup.exe
-C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\epScheduledServices.Startup.pdb
-C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\AWSSDK.dll
-C:\projects\epScheduledServices\epScheduledServices.Startup\bin\Debug\AWSSDK.pdb
-C:\projects\epScheduledServices\epScheduledServices.Startup\obj\Debug\epScheduledServices.Startup.csprojResolveAssemblyReference.cache
-C:\projects\epScheduledServices\epScheduledServices.Startup\obj\Debug\epScheduledServices.Startup.exe
-C:\projects\epScheduledServices\epScheduledServices.Startup\obj\Debug\epScheduledServices.Startup.pdb
